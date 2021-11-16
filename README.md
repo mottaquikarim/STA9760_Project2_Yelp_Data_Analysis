@@ -8,5 +8,5 @@ Note that the output of the code written is provided as a means to give you stru
 
 ## Cluster and Notebook Configs
 
-![notebook](https://github.com/mottaquikarim/STA9760_Project2_Yelp_Data_Analysis/blob/master/assets/notebook.png?raw=true)
-![cluster](https://github.com/mottaquikarim/STA9760_Project2_Yelp_Data_Analysis/blob/master/assets/cluster.png?raw=true)
+![notebook](assets/notebook.png)
+![cluster](assets/cluster.png)
